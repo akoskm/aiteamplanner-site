@@ -7,7 +7,7 @@ An Astro template for your iOS apps.
 ![Lighthouse](https://user-images.githubusercontent.com/95885060/223279863-18a3421f-a471-4e76-a4fa-6516abbb24c8.png)
 
 # Deploy
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=)https://github.com/akoskm/aiteamplanner-site)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/akoskm/aiteamplanner-site)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/akoskm/aiteamplanner-site)
 
 
