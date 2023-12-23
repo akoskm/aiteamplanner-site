@@ -4,36 +4,34 @@
   "name": "Nebula",
   "theme": "",
   "contact": "support@nebula.app",
-  "stores": {
-    "apple": "https://apps.apple.com/us/app/nebula/id1234567890",
-    "google": "https://play.google.com/store/apps/details?id=com.nebula.app"
-  },
   "description": [
-    "is a powerful and user-friendly navigation app.",
-    "You can easily plan and track your travels through space, whether you're a seasoned astronaut or a space exploration enthusiast.",
-    "With real-time updates and detailed maps, helps you stay on course and reach your destination with ease."
+    "is your AI companion for making the right decisions to grow your tech business."
+  ],
+  "demo": [
+    {
+      "question": "How many React developers I have in my company?",
+      "answer": "It appears that you have three React developers in your company. They are Bob Ross, Matt Damon, and Robert Collins."
+    },
+    {
+      "question": "Which is the earlies date when a React developer is free?",
+      "answer": "The earliest date when a React developer is free is Sat Mar 30 2024. This is the end date of the ”Web3 NFT Startup” project developed by Robert Collins."
+    }
   ],
   "features": [
     {
-      "title": "Space Travel",
-      "body": "Plan and track your space travels using detailed maps and real-time updates."
+      "title": "Track",
+      "body": "Developer schedule, projects or technical skills. Get feedback on how to improve your team."
     },
     {
-      "title": "Destination Tracker",
-      "body": "View your current location and track your progress towards your destination."
+      "title": "Plan",
+      "body": "Plan ahead with your team. Analyze trends to decide where to invest next."
     },
     {
-      "title": "Journey Alerts",
-      "body": "Set alerts for important events or landmarks along your journey."
-    },
-    {
-      "title": "Map Customization",
-      "body": "Customize your map display with different themes and overlays."
+      "title": "Report",
+      "body": "Get reports on your team's performance, project progress, and more."
     }
   ],
   "social": {
-    "twitter": "https://twitter.com/nebula",
-    "youtube": "https://www.youtube.com/nebula",
-    "discord": "https://discord.gg/nebula"
+    "twitter": "https://x.com/akoskm"
   }
 }

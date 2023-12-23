@@ -3,7 +3,7 @@ import App from "../../app.json";
 const COLOR_WAY = {
   indigo: {
     card: ["bg-indigo-50", "text-indigo-700"],
-    base: ["bg-indigo-600", "dark:bg-indigo-800"],
+    base: ["bg-indigo-100", "dark:bg-indigo-800"],
     footer: "dark:bg-indigo-900",
     accent: "text-indigo-600",
   },
